@@ -1,7 +1,7 @@
 # Prefab Placer 🎨
 ### A CGTools Module by Cubas Games
 
-![Prefab Placer Banner](../../Documentation/Images/PrefabPlacer_Banner.png)
+![Prefab Placer Banner](https://raw.githubusercontent.com/FredoCubap/Cubas-Games-Tools/main/Documentation/Images/PrefabPlacer_Banner.png)
 
 > Paint prefabs onto any mesh surface directly in the Scene View — trees, rocks, props, or anything you build.
 
@@ -10,8 +10,10 @@
 ## Preview
 
 ### Paint Mode
----
-![Paint Mode](../../Documentation/Images/Painting-Mode.gif)
+![Paint](https://raw.githubusercontent.com/FredoCubap/Cubas-Games-Tools/main/Documentation/Images/Painting-Mode.gif)
+
+### Erase Mode
+![Erase](https://raw.githubusercontent.com/FredoCubap/Cubas-Games-Tools/main/Documentation/Images/Delete-Mode.gif)
 
 *Works on Unity Terrain, custom meshes, and any surface with a Collider.*
 
