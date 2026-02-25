@@ -11,7 +11,7 @@
 
 | Paint Mode | Erase Mode |
 |------------|------------|
-| ![Paint](../../Documentation/Images/PrefabPlacer_Paint.gif) | ![Erase](../../Documentation/Images/PrefabPlacer_Erase.gif) |
+| ![Paint](../../Documentation/Images/Painting Mode.gif) | ![Erase](../../Documentation/Images/Delete Mode.gif) |
 
 *Works on Unity Terrain, custom meshes, and any surface with a Collider.*
 
