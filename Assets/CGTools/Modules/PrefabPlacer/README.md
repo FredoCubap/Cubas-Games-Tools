@@ -9,9 +9,9 @@
 
 ## Preview
 
-| Paint Mode | Erase Mode |
-|------------|------------|
-| ![Paint](../../Documentation/Images/Painting Mode.gif) | ![Erase](../../Documentation/Images/Delete Mode.gif) |
+### Paint Mode
+---
+![Paint Mode](../../Documentation/Images/Painting-Mode.gif)
 
 *Works on Unity Terrain, custom meshes, and any surface with a Collider.*
 
