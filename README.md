@@ -1,6 +1,6 @@
 # CGTools — Unity Editor Extensions by Cubas Games
 
-![CGTools Banner](Documentation/Images/Banner-HUB.png)
+![CGTools Banner](https://raw.githubusercontent.com/FredoCubap/Cubas-Games-Tools/main/Documentation/Images/Banner-HUB.png)
 
 > A modular, open-source suite of Unity Editor extensions designed to boost your workflow — with zero runtime overhead.
 
